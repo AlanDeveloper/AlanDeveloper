@@ -3,8 +3,8 @@
 
 Olá meu nome é Alan.
 
-Uma breve ideia sobre mim :)
-Em 2016 entrei no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual aprendi desenvolvimento web, onde acabei me interresando ainda mais pela área de programação.
+Uma breve ideia sobre mim :)</br>
+Em 2016 entrei no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual aprendi desenvolvimento web, onde acabei me interresando ainda mais pela área de programação.</br>
 Em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou me aprimorando e sempre em busca de novos conhecimentos até abraçando as oportunidades que a UFPEL me proporciona.
 
 
