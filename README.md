@@ -1,4 +1,5 @@
-### Bem Vindo 👋
+## Bem Vindo 👋
+</hr>
 
 Olá meu nome é Alan.
 
