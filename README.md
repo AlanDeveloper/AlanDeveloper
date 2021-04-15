@@ -8,7 +8,7 @@ Possuo uma grande bagagem em PHP e Python, assim como em seus frameworks(CodeIgn
 
 💻 Technologies & Tools
 
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+badge&logo=css3&logoColor=white
 
 <!--
 **AlanDeveloper/AlanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
