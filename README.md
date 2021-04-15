@@ -3,8 +3,12 @@
 
 Olá meu nome é Alan.
 
-Sou uma pessoa fascinada em aprender e vivenciar novas oportunidades, me formei no IFRS Campus Rio Grande ao qual tive 4 anos de desenvolvimento web(front-end e back-end) e agora estou cursando graduação em engenharia de computação na UFPEL.
-Possuo uma grande bagagem em PHP e Python, assim como em seus frameworks(CodeIgniter, Laravel, Flask), complementados com PostgresSql e MySql montei alguns sistemas avaliados durante meu ensino. Não montei um sistema completo com Javascript mas possuo conhecimentos com a linguagem de Jquery, React e Vue.
+Uma breve ideia sobre mim :)
+
+Em 2016 entrei no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual aprendi desenvolvimento web, onde acabei me interresando ainda mais pela área de programação.
+
+Em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou me aprimorando e sempre em busca de novos conhecimentos até abraçando as oportunidades que a UFPEL me proporciona.
+
 
 💻 Technologies & Tools
 
