@@ -8,7 +8,7 @@ Possuo uma grande bagagem em PHP e Python, assim como em seus frameworks(CodeIgn
 
 💻 Technologies & Tools
 
-HTML5 Badge CSS3 Badge JavaScript Badge React Badge Sass Badge Bootstrap Badge jQuery Badge Node Badge PHP Badge MySQL Badge Wordpress Badge Git Badge Visual_Studio_Code Badge
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <!--
 **AlanDeveloper/AlanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
