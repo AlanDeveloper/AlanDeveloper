@@ -6,6 +6,10 @@ Olá meu nome é Alan.
 Sou uma pessoa fascinada em aprender e vivenciar novas oportunidades, me formei no IFRS Campus Rio Grande ao qual tive 4 anos de desenvolvimento web(front-end e back-end) e agora estou cursando graduação em engenharia de computação na UFPEL.
 Possuo uma grande bagagem em PHP e Python, assim como em seus frameworks(CodeIgniter, Laravel, Flask), complementados com PostgresSql e MySql montei alguns sistemas avaliados durante meu ensino. Não montei um sistema completo com Javascript mas possuo conhecimentos com a linguagem de Jquery, React e Vue.
 
+💻 Technologies & Tools
+
+HTML5 Badge CSS3 Badge JavaScript Badge React Badge Sass Badge Bootstrap Badge jQuery Badge Node Badge PHP Badge MySQL Badge Wordpress Badge Git Badge Visual_Studio_Code Badge
+
 <!--
 **AlanDeveloper/AlanDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -- Bem Vindo
