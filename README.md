@@ -1,7 +1,7 @@
 ## Bem Vindo :wave::wave:
 
 ### Fique a vontade só não esqueça do :coffee:
-</hr>
+</hr></br>
 
 Uma breve ideia sobre mim :)
 
