@@ -1,6 +1,5 @@
 ## Bem Vindo :wave::wave:
 
-### Fique a vontade só não esqueça do :coffee:
 </hr></br>
 
 Uma breve ideia sobre mim :)
@@ -13,6 +12,7 @@ Ao longo dessa história cumpri um estágio que era requisitado para conclusão 
 
 Participei de dois projetos durante meus estudos no IFRS, os quais me ensinaram sobre o trabalho em equipe além de encarar desafios que aparecem no caminho. Atualmente, participo de outros dois projetos, um deles está sendo realizado em cooperação IFRS-FURG ao qual fui chamado, e o outro projeto foi o que me candidatei a participar na UFPEL.
 
+### Fique a vontade só não esqueça do :coffee:
 
 💻 Tecnologias & Ferramentas
 
