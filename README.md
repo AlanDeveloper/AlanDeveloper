@@ -1,6 +1,6 @@
 # Fique a vontade só não esqueça do :coffee:
 
-</hr></br>
+</hr>
 
 Uma breve ideia sobre mim :)
 
