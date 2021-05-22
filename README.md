@@ -3,6 +3,8 @@
 ### Fique a vontade só não esqueça do :coffee:
 </hr>
 
+Uma breve ideia sobre mim :)
+
 
 Em 2016 entrei no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual em 4 longos anos aprendi desenvolvimento web, me instigando ainda mais pela área de programação.
 Em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através de projetos e pesquisas que a UFPEL me proporciona.
