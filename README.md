@@ -17,4 +17,4 @@ Atualmente, participo de dois projetos, um deles está sendo realizado em cooper
 
 📱 Contato
 
-<a href="https://www.linkedin.com/in/alan-santos-20659a190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/alan-santos-20659a190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
