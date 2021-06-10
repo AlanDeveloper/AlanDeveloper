@@ -6,7 +6,7 @@ Uma breve ideia sobre mim :)
 
 Sou formado no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual em 4 longos anos aprendi desenvolvimento web, e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através de projetos e pesquisas.
 
-Atualmente, participo de dois projetos, um deles está sendo realizado em cooperação IFRS-FURG ao qual fui chamado, e o outro projeto foi o que me candidatei a participar na UFPEL.
+Atualmente participo de dois projetos, um deles está sendo realizado em cooperação IFRS-FURG ao qual fui chamado, e o outro projeto foi o que me candidatei a participar na UFPEL.
 
 
 💻 Tecnologias & Ferramentas
@@ -19,6 +19,7 @@ Atualmente, participo de dois projetos, um deles está sendo realizado em cooper
 
 <a href="https://www.linkedin.com/in/alan-santos-20659a190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DXDwSWwtvthQsTBGVZlLwGRmxdvZkMwmtdbhjhgtMSHmbHlfsqzBpGnVSQWfswrlwkKtKMRzFdLKtLTlTKgHWPcZmslPdtBFTsWRGPrScpQqWMXFRTSfCkFL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDeveloper&show_icons=true)
