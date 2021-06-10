@@ -4,7 +4,7 @@
 
 Uma breve ideia sobre mim :)
 
-Sou formado no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual em 4 longos anos aprendi desenvolvimento web, e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através de projetos e pesquisas que a UFPEL me proporciona.
+Sou formado no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual em 4 longos anos aprendi desenvolvimento web, e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através de projetos e pesquisas.
 
 Atualmente, participo de dois projetos, um deles está sendo realizado em cooperação IFRS-FURG ao qual fui chamado, e o outro projeto foi o que me candidatei a participar na UFPEL.
 
@@ -17,4 +17,4 @@ Atualmente, participo de dois projetos, um deles está sendo realizado em cooper
 
 📱 Contato
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/alan-santos-20659a190/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
