@@ -4,9 +4,7 @@
 
 Uma breve ideia sobre mim :)
 
-Sou formado no IFRS Campus Rio Grande para o curso Técnico de Informática para Internet, ao qual em 4 longos anos aprendi desenvolvimento web, e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através de projetos e pesquisas.
-
-Atualmente participo de dois projetos, um deles está sendo realizado em cooperação IFRS-FURG ao qual fui chamado, e o outro projeto foi o que me candidatei a participar na UFPEL.
+Sou formado no IFRS Campus Rio Grande como Técnico de Informática para Internet, ao qual em 4 anos aprendi desenvolvimento web(front e back), e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através das oportunidades que são me dadas.
 
 
 💻 Tecnologias & Ferramentas
