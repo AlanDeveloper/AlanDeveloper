@@ -4,7 +4,8 @@
 
 Uma breve ideia sobre mim :)
 
-Sou formado no IFRS Campus Rio Grande como Técnico de Informática para Internet, ao qual em 4 anos aprendi desenvolvimento web(front e back), e em 2020 ingressei na Graduação em Engenharia de Computação, ao qual estou sempre em busca de participar e aprender através das oportunidades que são me dadas.
+Sou formado no IFRS Campus Rio Grande como técnico de informática para internet onde em 4 anos aprendi desenvolvimento web(front e back), em 2020 ingressei na graduação em engenharia de computação, ao qual estou sempre em busca de participar e aprender através das oportunidades que são me dadas.
+
 
 
 💻 Tecnologias & Ferramentas
