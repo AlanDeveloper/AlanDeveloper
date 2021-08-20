@@ -21,4 +21,4 @@ Sou formado no IFRS Campus Rio Grande como técnico de informática para interne
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDeveloper&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDeveloper&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDeveloper&show_icons=true)
