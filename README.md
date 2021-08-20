@@ -4,6 +4,8 @@
 
 Sou formado no IFRS Campus Rio Grande como técnico de informática para internet onde em 4 anos aprendi desenvolvimento web(front e back), em 2020 ingressei na graduação em engenharia de computação, ao qual estou sempre em busca de participar e aprender através das oportunidades que são me dadas.
 
+![](https://visitor-badge.laobi.icu/badge?page_id=AlanDeveloper.AlanDeveloper) [![Github](https://img.shields.io/github/followers/AlanDeveloper?label=Followers&style=social)](https://github.com/AlanDeveloper)
+
 
 
 💻 Tecnologias & Ferramentas
@@ -19,4 +21,4 @@ Sou formado no IFRS Campus Rio Grande como técnico de informática para interne
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDeveloper&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanDeveloper&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDeveloper&theme=tokyonight)
