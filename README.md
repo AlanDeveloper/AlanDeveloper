@@ -1,10 +1,13 @@
-# Fique a vontade só não esqueça do :coffee:
+# Fique a vontade só não esqueça do :coffee: (Full Stack Jr.)
 
 </hr>
 
-Sou formado no IFRS Campus Rio Grande como técnico de informática para internet onde em 4 anos aprendi desenvolvimento web(front e back), em 2020 ingressei na graduação em engenharia de computação, ao qual estou sempre em busca de participar e aprender através das oportunidades que são me dadas.
+-  Técnico de Informática para Internet (IFRS Campus Rio Grande)
+-  Estudante de Engenharia de Computação (UFPEL Campus Anglo)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AlanDeveloper.AlanDeveloper) [![Github](https://img.shields.io/github/followers/AlanDeveloper?label=Followers&style=social)](https://github.com/AlanDeveloper)
+Alguns anos de bagagem estudando mas também trabalhando, principalmente com projetos acadêmicos e pessoais, a maior parte pode ser vista através dos meus repositórios.
+
+*Espero que goste :)*
 
 
 
