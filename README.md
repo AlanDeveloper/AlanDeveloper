@@ -1,4 +1,4 @@
-# Fique a vontade só não esqueça do :coffee: (Full Stack Jr.)
+# Fique a vontade só não esqueça do :coffee:
 
 </hr>
 
