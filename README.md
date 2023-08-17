@@ -5,7 +5,9 @@
 -  Técnico de Informática para Internet (IFRS Campus Rio Grande)
 -  Estudante de Engenharia de Computação (UFPEL Campus Anglo)
 
-Possuo alguns anos de bagagem estudando mas também trabalhando, participei de vários projetos acadêmicos e pratiquei por fora projetos pessoais, a maior parte pode ser vista através dos meus repositórios. Atualmente, trabalho no setor de desenvolvimento da YellowGo como desenvovedor web full stack jr.
+Possuo alguns anos de bagagem estudando mas também trabalhando, participei de vários projetos acadêmicos e pratiquei por fora projetos pessoais, a maior parte pode ser vista através dos meus repositórios.
+
+Atualmente, trabalho no setor de desenvolvimento da YellowGo como desenvovedor web full stack jr.
 
 *Espero que goste :)*
 
