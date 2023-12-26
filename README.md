@@ -9,8 +9,6 @@ Possuo alguns anos de bagagem estudando mas também trabalhando, participei de v
 
 Atualmente, trabalho na Yellow Go como desenvolvedor Web Full Stack Jr.
 
-*Espero que goste :)*
-
 
 
 💻 Tecnologias & Ferramentas
