@@ -9,6 +9,13 @@ Possuo alguns anos de bagagem estudando mas também trabalhando, participei de v
 
 Atualmente, trabalho na Yellow Go como desenvolvedor Web Full Stack Jr.
 
+- Técnico em Informática para Internet (IFRS Campus Rio Grande) | 01/2016 - 12/2019
+- Engenharia de Computação (UFPEL Campus Anglo) | 01/2020 - Atual
+
+Possuo alguns anos de experiência estudando e trabalhando. Participei de vários projetos acadêmicos e me envolvi em projetos pessoais, muitos dos quais estão disponíveis nos meus repositórios.
+
+Atualmente, trabalho na Yellow Go como Desenvolvedor Web Full Stack Júnior desde abril de 2022.
+
 
 
 💻 Tecnologias & Ferramentas
