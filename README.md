@@ -2,8 +2,8 @@
 
 </hr>
 
--  Técnico de Informática para Internet (IFRS Campus Rio Grande)
--  Estudante de Engenharia de Computação (UFPEL Campus Anglo)
+-  Técnico de Informática para Internet (IFRS Campus Rio Grande) | 01/2016 - 12/2019
+-  Engenharia de Computação (UFPEL Campus Anglo) | 01/2020 - Atual
 
 Possuo alguns anos de bagagem estudando mas também trabalhando, participei de vários projetos acadêmicos e pratiquei por fora projetos pessoais, a maior parte pode ser vista através dos meus repositórios.
 
