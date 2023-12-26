@@ -7,7 +7,7 @@
 
 Possuo alguns anos de bagagem estudando mas também trabalhando, participei de vários projetos acadêmicos e pratiquei por fora projetos pessoais, a maior parte pode ser vista através dos meus repositórios.
 
-Atualmente, trabalho no setor de desenvolvimento da YellowGo como desenvovedor web full stack jr.
+Atualmente, trabalho na Yellow Go como desenvolvedor Web Full Stack Jr.
 
 *Espero que goste :)*
 
