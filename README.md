@@ -21,4 +21,4 @@ Currently, I work at Yellow Go as a Junior Full Stack Web Developer since March 
 <a href="https://www.linkedin.com/in/alan-santos-20659a190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DXDwSWwtvthQsTBGVZlLwGRmxdvZkMwmtdbhjhgtMSHmbHlfsqzBpGnVSQWfswrlwkKtKMRzFdLKtLTlTKgHWPcZmslPdtBFTsWRGPrScpQqWMXFRTSfCkFL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-Portfolio: <a href="https://alandeveloper.github.io/Portfolio/" target="_blank"></a>
+Portfolio: <a href="https://alandeveloper.github.io/Portfolio/" target="_blank">https://alandeveloper.github.io/Portfolio/</a>
