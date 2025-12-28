@@ -7,7 +7,7 @@
 
 I have several years of experience studying and working. I have participated in various academic projects and engaged in personal projects, many of which are available in my repositories.
 
-Currently, I work at Yellow Go as a Mid Level Full Stack Web Developer since March 2022.
+Currently, I work at hLiberty as a Mid Level Full Stack Web Developer since March 2022.
 
 
 💻 Technologies & Tools
