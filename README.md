@@ -10,6 +10,7 @@ I have several years of experience studying and working. I have participated in 
 Currently, I work at hLiberty as a Mid Level Full Stack Web Developer since March 2022.
 
 📱 Contact me
+
 <a href="https://www.linkedin.com/in/alan-santos-20659a190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/5553991236244" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DXDwSWwtvthQsTBGVZlLwGRmxdvZkMwmtdbhjhgtMSHmbHlfsqzBpGnVSQWfswrlwkKtKMRzFdLKtLTlTKgHWPcZmslPdtBFTsWRGPrScpQqWMXFRTSfCkFL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
